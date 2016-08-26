@@ -1,3 +1,5 @@
 this is used for testing the branch.
 
 this line is used for testing the merge branch.
+
+this is a newline to test merge branch.
